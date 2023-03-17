@@ -1,6 +1,10 @@
 # hooks_learn
 
-A new Flutter project.
+A new Flutter project to learn flutter_hooks
+
+You can read my Medium post about this topic. This post is Turkish.
+
+https://medium.com/@halitkaancan_18073/tabiri-caizse-flutterda-hooks-devrimi-daha-okunakl%C4%B1-daha-performansl%C4%B1-ve-daha-kolay-kodlama-782b87ecfd85
 
 ## Getting Started
 
